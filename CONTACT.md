@@ -1,13 +1,11 @@
-# J'Ville Computers Contact Info
 ## Contact Us
-### J'Ville Computers
 Thanks for visiting! We're here to help.
 
 ### Get in Touch
 * Phone/Text: [903-541-9299](tel:9035419299) (Google Voice)
 * Email: [JVilleComputers@gmail.com](mailto:JVilleComputers@gmail.com)
-* Website: https://JVilleComputers.github.io
-* GitHub: https://github.com/JVilleComputers
+* Website: [https://JVilleComputers.github.io](https://JVilleComputers.github.io)
+* GitHub: [https://github.com/JVilleComputers](https://github.com/JVilleComputers)
 * Social Media:
 	+ Facebook: [@JVilleComputers](https://facebook.com/JVilleComputers)
 	+ Reddit: [/u/JVilleComputers](https://reddit.com/u/JVilleComputers)
