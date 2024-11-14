@@ -2,7 +2,7 @@ Sincerely,
 Jason Pierce
 Founder/Owner, J'Ville Computers
 
-* **Email:** [pierce.jason@gmail.com](mailto:pierce.jason@gmail.com) (Direct) | [jvillecomputers@gmail.com](mailto:jvillecomputers@gmail.com) (General)
+* **Email:** [pierce.jason@gmail.com](mailto:pierce.jason@gmail.com) (Direct) || [jvillecomputers@gmail.com](mailto:jvillecomputers@gmail.com) (General)
 * **Phone/SMS:** [903.541.9299](sms:9035419299)
 * **Website:** [https://jvillecomputers.github.io](https://jvillecomputers.github.io)
 * **Social Media:**
