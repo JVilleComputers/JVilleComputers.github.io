@@ -12,7 +12,7 @@
 * **Screenshots/Attachments:** thecheckinservice-LOGIN_email_form_field_not_matching_signup.mkv
 
 **Contact Information**
-Sincerely,
+Regards,
 Jason Pierce
 Founder/Owner, J'Ville Computers
 
