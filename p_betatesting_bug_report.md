@@ -1,15 +1,16 @@
-**Bug Report:** LOGIN email form field not matching signup
-* **URL:** https://thecheckinservice.com/auth/login
-* **Description:** Clicking in the email field does not "match up" with the form naming of signup to offer auto-fill options in the desktop browser.
+**Bug Report:** [Insert brief summary of bug]
+* **URL:** [Insert URL where bug occurred]
+* **Description:** [Provide detailed explanation of bug]
 * **Steps to Reproduce:**
-    1. Load https://thecheckinservice.com/
-    2. Click top right "Login" button
-    3. Focus on Email field
-* **Expected Result:** Focusing on email field should offer to auto-fill email and password from browser's keychain
-* **Actual Result:** Does not auto-fill or suggest
-* **Error Message(s):** No error
-* **Browser/Device:** Chrome 130.0.6723.91 (Linux), MXLinux 23.4
-* **Screenshots/Attachments:** thecheckinservice-LOGIN_email_form_field_not_matching_signup.mkv
+    1. [Step 1]
+    2. [Step 2]
+    3. [Step 3]
+    ...
+* **Expected Result:** [Describe expected behavior]
+* **Actual Result:** [Describe actual behavior]
+* **Error Message(s):** [List any error messages]
+* **Browser/Device:** [List browser, version, device, and OS]
+* **Screenshots/Attachments:** [List attached files]
 
 **Contact Information**
 Regards,
