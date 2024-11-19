@@ -1,16 +1,15 @@
-**Bug Report:** [Insert brief summary of bug]
-* **URL:** [Insert URL where bug occurred]
-* **Description:** [Provide detailed explanation of bug]
+**Bug Report:** [Insert_brief_summary_of_bug]
+* **URL:** [Insert_URL_where_bug_occurred]
+* **Description:** [Provide_detailed_explanation_of_bug]
 * **Steps to Reproduce:**
-    1. [Step 1]
-    2. [Step 2]
-    3. [Step 3]
-    ...
-* **Expected Result:** [Describe expected behavior]
-* **Actual Result:** [Describe actual behavior]
-* **Error Message(s):** [List any error messages]
-* **Browser/Device:** [List browser, version, device, and OS]
-* **Screenshots/Attachments:** [List attached files]
+    1. [Step_1]
+    2. [Step_2]
+    3. [Step_3]
+* **Expected Result:** [Describe_expected_behavior]
+* **Actual Result:** [Describe_actual_behavior]
+* **Error Message(s):** [List_any_error_messages]
+* **Browser/Device:** [Chrome 130.0.6723.91 (Linux), MXLinux 23.4] || [Android 9, TCL Alcatel 3v 5023w]
+* **Screenshots/Attachments:** [List_attached_files]
 
 **Contact Information**
 Regards,
