@@ -7,3 +7,6 @@ Have questions or need support? [Visit our contact page](CONTACT.md).
 ## PC & Electronics Repair Services
 For expert computer repair, maintenance and technical support:
 [Text](sms:9035419299), [call](tel:9035419299), or [email](mailto:JVilleComputers@gmail.com) us to schedule.
+
+## Last Updated
+August 23, 2025, 08:15 PM CST
